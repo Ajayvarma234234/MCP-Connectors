@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+demo.drawio
+demo-link.html
